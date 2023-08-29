@@ -1,9 +1,9 @@
 <h1 align="center">Oi 👋, eu sou Leir Paiva</h1>
 <h3 align="center">Apaixonado por dados e sempre buscando conhecimento</h3>
 
-- 🌱 Eu estou atualmente aprendendo e desenvolvendo **projetos em Power BI, Python e R**
+- 🌱 Eu estou atualmente aprendendo e desenvolvendo projetos em **Power BI, Python e R**
 
-- 👨‍💻 Meus projetos estão disponíveis em [https://sites.google.com/view/portflioleirpaiva/in%C3%ADcio](https://sites.google.com/view /portflioleirpaiva/in%C3%ADcio)
+- 👨‍💻 Meus projetos estão disponíveis em [https://sites.google.com/view/portflioleirpaiva/in%C3%ADcio]
 
 - 📫 Como entrar em contato **leirleon@gmail.com**
 
