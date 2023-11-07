@@ -1,4 +1,4 @@
-📊 Analista de Dados | 📈 Visualização | 📉 Extração de Dados
+📊 Analista de Dados | 📉 Pipeline de dados |  📈 Insights 
 
 Olá, sou Leir Leon! 👋 Como um apaixonado analista de dados, transformo informações em insights e tomo decisões baseadas em evidências. Minha missão é descobrir padrões, revelar conhecimentos e contar histórias por meio dos dados.
 
