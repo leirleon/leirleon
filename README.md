@@ -9,5 +9,5 @@ Olá, sou Leir Leon! 👋 Como um apaixonado analista de dados, transformo infor
   - Análise estatística para identificar tendências e oportunidades.
 
 🔧 Habilidades Técnicas:
-- Python, SQL, R, Power BI, Excel, SAS, SAP ERP.
+- Python, SQL, R, Power BI, SAS, SAP ERP e Excel avançado.
 
